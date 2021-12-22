@@ -4,13 +4,16 @@ html {
     background-image: url("https://static01.nyt.com/images/2021/01/26/well/well-foods-microbiome/well-foods-microbiome-superJumbo.jpg");
     background-size: cover;
     background-origin: border-box;
+    height: fit-content;
 }
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    color: gray;
+    color: rgb(165, 5, 5);
     font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 ul {
@@ -25,7 +28,7 @@ ul {
     text-align: center;
     font-size: 25px;
     align-items: center;
-    margin-left: 80px;
+    margin-left: 150px;
     border-radius: 10px;
 
 }
